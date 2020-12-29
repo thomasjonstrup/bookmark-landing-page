@@ -109,7 +109,7 @@ a {
 		align-items: center;
 		display: none;
 
-		@media only screen and (max-width: 768px) {
+		@media only screen and (max-width: 767px) {
 			position: absolute;
 			-webkit-box-orient: vertical;
 			-webkit-box-direction: normal;
@@ -127,20 +127,20 @@ a {
 			display: none;
 			-webkit-transition: all 0.5s;
 			transition: all 0.5s;
-		}
 
-		li {
-			text-transform: uppercase;
-			font-size: 2rem;
-			color: $gray;
-			border-top: $gray solid 1px;
-			width: 90%;
-			text-align: center;
-			padding: 2rem;
-
-			a {
-				width: 100%;
+			li {
+				text-transform: uppercase;
+				font-size: 2rem;
 				color: $gray;
+				border-top: $gray solid 1px;
+				width: 90%;
+				text-align: center;
+				padding: 2rem;
+
+				a {
+					width: 100%;
+					color: $gray;
+				}
 			}
 		}
 
