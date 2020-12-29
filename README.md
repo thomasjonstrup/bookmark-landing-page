@@ -1,5 +1,7 @@
 # Frontend Mentor - Bookmark landing page
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8a363de-ed02-433a-9e1f-f0e60e8fe7ee/deploy-status)](https://app.netlify.com/sites/bookmark-landing-page-thjo/deploys)
+
 ![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
