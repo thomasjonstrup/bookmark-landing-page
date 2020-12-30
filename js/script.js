@@ -4,6 +4,6 @@ console.log("burger :>> ", burger);
 
 burger[0].addEventListener("click", () => {
 	if (menu[0]) {
-		menu[0].classList.toggle("nav__menu--open");
+		menu[0].classList.toggle("is-open");
 	}
 });
