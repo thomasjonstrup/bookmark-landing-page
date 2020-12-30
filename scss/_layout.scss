@@ -28,7 +28,10 @@
 /* Hero section */
 .hero {
 	position: relative;
-	&__image {
+	margin: 5rem 0 5rem;
+
+	@media (min-width: 768px) {
+		margin: 5rem 0 10rem;
 	}
 
 	&__heading {
